@@ -1,0 +1,3 @@
+ 
+Player2   Moves: 5   Board: 4*4   Rows of pieces: 2 
+B   Moves: 5   Board: 4*4   Rows of pieces: 2
